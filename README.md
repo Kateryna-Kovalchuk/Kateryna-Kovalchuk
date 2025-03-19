@@ -1,9 +1,7 @@
 ## 📊 Data Analytics & Business Intelligence  
 
 ------------------------------------------------
-## 🛠 Technology Stack  
-
-## 🚀 My Stack and Tools  
+## 🛠 My Stack and Tools  
 
 <table>
   <tr>
