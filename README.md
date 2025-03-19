@@ -1,6 +1,27 @@
 ## 📊 Data Analytics & Business Intelligence  
 
 ------------------------------------------------
+## 🛠 Technology Stack  
+
+## 🚀 My Stack and Tools  
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/><br>Tableau</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Looker-icon.png" width="50"/><br>Looker</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_BigQuery_Logo.png" width="50"/><br>BigQuery</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br>Google Sheets</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="50"/><br>Excel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode</td>
+  </tr>
+</table>
+
+
+------------------------------------------------
 
 ## 🔎 Projects Overview  
 
@@ -30,20 +51,6 @@
 - 🧪 [Statistical Significance Testing](#) _(Coming soon)_ 
 
 ------------------------------------------------
-
-## 🛠 Technology Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-Analytics-%23D2B48C?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-%238B7355?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Finance-%23C19A6B?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-Reporting-%23F5DEB3?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/Kateryna-Kovalchuk/Kateryna-Kovalchuk/main/05-python.svg" width="110" />
-  <img src="https://img.shields.io/badge/A%2FB_Testing-Analytics-%23D2B48C?style=for-the-badge" />
-</p>
-
-------------------------------------------------
-
 
 ## 📬 Contact  
 📧 **Email:** [kate.nesm@gmail.com](mailto:kate.nesm@gmail.com)  
