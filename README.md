@@ -1,39 +1,35 @@
 ## 📊 Data Analytics & Business Intelligence  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A67B5B&size=30&center=true&vCenter=true&lines=Data+Analyst+%7C+Marketing+%7C+Business;Tableau+%7C+SQL+%7C+Python+%7C+Google+Sheets" />
-</p>
-
----
+------------------------------------------------
 
 ## 🔎 Projects Overview  
 
 ### 📊 **Tableau (Dashboards & Data Visualization)**  
-- 📈 [Customer Segmentation Dashboard](#)  
-- 💰 [Sales & Revenue Analytics](#)  
-- 📊 [Interactive Reports](#)  
+- 📈 [Online Shopping Sales Dashboard](https://public.tableau.com/views/OnlineShopping_17383518536430/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- 💰 [HR Analytics Dashboard](https://public.tableau.com/views/HRDashboard_17402279884770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- 📊 [Interactive Reports](#) _(Coming soon)_  
 
 ### 📑 **Excel & Google Sheets (Reporting & Automation)**  
-- 🏦 [Automated Financial Reports](#)  
-- 📊 [Sales Forecasting Models](#)  
-- 🔄 [Google Sheets + Apps Script Automation](#)  
+- 🏦 [Automated Financial Reports](#) _(Coming soon)_  
+- 📊 [Sales Forecasting Models](#) _(Coming soon)_  
+- 🔄 [Google Sheets + Apps Script Automation](#) _(Coming soon)_  
 
 ### 🛢 **SQL (Data Processing & Queries)**  
-- 🎯 [Customer Retention Analysis](#)  
-- ⚡ [SQL Query Optimization](#)  
-- 📦 [Database Management](#)  
+- 🎯 [Customer Retention Analysis](#) _(Coming soon)_  
+- ⚡ [SQL Query Optimization](#) _(Coming soon)_  
+- 📦 [Database Management](#) _(Coming soon)_  
 
 ### 🐍 **Python (Data Analysis & EDA)**  
-- 🔍 [Data Cleaning & Preprocessing](#)  
-- 📊 [Exploratory Data Analysis (EDA)](#)  
-- 🎨 [Visualization with Matplotlib & Seaborn](#)  
+- 🔍 [Data Cleaning & Preprocessing](#) _(Coming soon)_  
+- 📊 [Coffee Shop Sales Analysis (EDA & Visualization)](https://github.com/Kateryna-Kovalchuk/Coffee-Shop-Sales-Analysis)  
+- 🎨 [Visualization with Matplotlib & Seaborn](#) _(Coming soon)_  
 
 ### 🎯 **A/B Testing (Experimentation & Optimization)**  
-- 📊 [Conversion Rate Analysis](#)  
-- 📢 [Marketing Campaign Performance](#)  
-- 🧪 [Statistical Significance Testing](#)  
+- 📊 [Conversion Rate Analysis](#) _(Coming soon)_  
+- 📢 [Marketing Campaign Performance](#) _(Coming soon)_  
+- 🧪 [Statistical Significance Testing](#) _(Coming soon)_ 
 
----
+------------------------------------------------
 
 ## 🛠 Technology Stack  
 
@@ -46,18 +42,8 @@
   <img src="https://img.shields.io/badge/A%2FB_Testing-Analytics-%23D2B48C?style=for-the-badge" />
 </p>
 
----
+------------------------------------------------
 
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <a href="https://github.com/Kateryna-Kovalchuk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kateryna-Kovalchuk&show_icons=true&theme=calm&hide=prs,issues&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kateryna-Kovalchuk&theme=calm&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 📬 Contact  
 📧 **Email:** [kate.nesm@gmail.com](mailto:kate.nesm@gmail.com)  
