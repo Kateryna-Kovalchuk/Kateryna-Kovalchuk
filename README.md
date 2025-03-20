@@ -5,38 +5,16 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="images/tableau.svg" width="50"/><br>Tableau
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="images/looker.svg" width="50"/><br>Looker
-    </td>
-    <td align="center">
-      <img src="images/google-bigquery.svg" width="50"/><br>BigQuery
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/Google Sheets.png" width="50"/><br>Google Sheets
-    </td>
-    <td align="center">
-      <img src="images/excel.png" width="50"/><br>Excel
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode
-    </td>
+    <td align="center"><img src="tableau-icon.svg" width="50"/><br>Tableau</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="looker-icon.svg" width="50"/><br>Looker</td>
+    <td align="center"><img src="google-bigquery-logo-1.svg" width="50"/><br>BigQuery</td>
+    <td align="center"><img src="google-sheets-full-logo-1.svg" width="50"/><br>Google Sheets</td>
+    <td align="center"><img src="Microsoft_Office_Excel_(2019–present).svg" width="50"/><br>Excel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode</td>
   </tr>
 </table>
 
