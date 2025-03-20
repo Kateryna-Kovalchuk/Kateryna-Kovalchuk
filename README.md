@@ -5,18 +5,41 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/><br>Tableau</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Looker-icon.png" width="50"/><br>Looker</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_BigQuery_Logo.png" width="50"/><br>BigQuery</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br>Google Sheets</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="50"/><br>Excel</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode</td>
+    <td align="center">
+      <img src="images/tableau.svg" width="50"/><br>Tableau
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="images/looker.svg" width="50"/><br>Looker
+    </td>
+    <td align="center">
+      <img src="images/google-bigquery.svg" width="50"/><br>BigQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Google Sheets.png" width="50"/><br>Google Sheets
+    </td>
+    <td align="center">
+      <img src="images/excel.png" width="50"/><br>Excel
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode
+    </td>
   </tr>
 </table>
+
 
 
 ------------------------------------------------
