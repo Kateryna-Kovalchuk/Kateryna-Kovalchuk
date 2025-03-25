@@ -35,7 +35,7 @@
 - 🔄 [Google Sheets + Apps Script Automation](#) _(Coming soon)_  
 
 ### 🛢 **SQL (Data Processing & Queries)**  
-- 🎯 [Customer Retention Analysis](#) _(Coming soon)_  
+- 🎯 [Data Warehouse and Analytics Project](https://github.com/Kateryna-Kovalchuk/sql-data-warehouse-project)  
 - ⚡ [SQL Query Optimization](#) _(Coming soon)_  
 - 📦 [Database Management](#) _(Coming soon)_  
 
